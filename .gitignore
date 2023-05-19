@@ -1,0 +1,12 @@
+npm init -y
+
+npm i next react react-dom
+
+
+copy the script code from next js doc and paste it to package.json
+ "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
