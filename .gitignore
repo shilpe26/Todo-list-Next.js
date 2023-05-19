@@ -10,3 +10,5 @@ copy the script code from next js doc and paste it to package.json
     "start": "next start",
     "lint": "next lint"
   },
+  
+  At last npm run dev
